@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class perulanganHargaBuku {
-    public class TotalHargaBelanja {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double totalHarga = 0;
@@ -27,4 +26,5 @@ public class perulanganHargaBuku {
     }
 }
 
-}
+
+
